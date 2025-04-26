@@ -1,0 +1,13 @@
+{
+  "title": "MySQL面试八股文",
+  "description": "涵盖MySQL核心技术点的面试指南",
+  "language": "zh-hans",
+  "plugins": [
+    "-lunr", 
+    "-search",
+    "search-pro",
+    "splitter",
+    "chapter-fold",
+    "toc"
+  ]
+}
